@@ -4,6 +4,7 @@
 ### Technologies & Methodologies which used:
 
 - Java
+- Google Maps API
 - Firebase
 - Material Design
 
@@ -25,12 +26,12 @@ dependencies:
 
 android versions targeted:
 
-- (API level 20) or higher
+- (API level 16) or higher
 
 
 ### Libraries
 
-- Circleimageview
+- Google Maps location
 - Material Design
 - Cardview
 
