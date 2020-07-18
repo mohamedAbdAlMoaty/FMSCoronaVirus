@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FMS CoronaVirus</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyADOnz1aXjKImXZSMauXYBXklf8xbnJ6Eo</string>
+    <string name="patient"> Ich bin Geduldig</string>
+    <string name="ambulanceProvider"> Ich bin Krankenwagenanbieter</string>
+    <string name="email">email</string>
+    <string name="password">passwort</string>
+    <string name="sign_up">Registrieren</string>
+    <string name="login">Anmelden</string>
+    <string name="logout">Abmelden</string>
+    <string name="setting">Einstellung</string>
+    <string name="request">Anfraget</string>
+    <string name="enter_email"> Email eingeben</string>
+    <string name="vaild_email">gültige Email eingeben </string>
+    <string name="enter_password">Passwort eingeben</string>
+    <string name="password_length_check">Das Passwort sollte mehr als 6 sein</string>
+</resources>

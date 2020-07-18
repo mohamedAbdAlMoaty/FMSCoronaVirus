@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FMS CoronaVirus</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyADOnz1aXjKImXZSMauXYBXklf8xbnJ6Eo</string>
+    <string name="patient"> I`m a Patient</string>
+    <string name="ambulanceProvider"> I`m a Ambulance provider</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="sign_up">sign up</string>
+    <string name="login">login</string>
+    <string name="logout">Logout</string>
+    <string name="setting">Setting</string>
+    <string name="request">Request</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="vaild_email">Enter valid Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password_length_check">Password Should be more than 6</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">REGISTER</string>
+</resources>

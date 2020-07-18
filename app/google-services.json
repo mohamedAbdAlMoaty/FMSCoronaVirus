@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "143914402482",
+    "firebase_url": "https://fms-corona.firebaseio.com",
+    "project_id": "fms-corona",
+    "storage_bucket": "fms-corona.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143914402482:android:d3ee5f6e59250a7b783fab",
+        "android_client_info": {
+          "package_name": "com.example.fmscoronavirus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143914402482-7dhklome8dbdrq2o7i9r59g22rphv5a5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fmscoronavirus",
+            "certificate_hash": "344804ec241f86a841773b68ed1006d5ade674ae"
+          }
+        },
+        {
+          "client_id": "143914402482-csg8qp7plr9eo5e7dtocgvphp25b12ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMM_kkHvnESN4HPMCCmEv5_FwE3s_NAaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143914402482-csg8qp7plr9eo5e7dtocgvphp25b12ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/rootLayout"
+    android:layout_height="match_parent"
+    android:background="@drawable/doctor"
+    tools:context=".Activities.AmbulanceProviderActivity">
+
+
+    <LinearLayout
+        android:id="@+id/txt_rider_app"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/loginProvider"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_signin_background"
+            android:fontFamily="@font/arkhip_font"
+            android:text="SIGN IN"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/signupProvider"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_register_background"
+            android:fontFamily="@font/arkhip_font"
+            android:text="REGISTER"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/btnReqister" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
