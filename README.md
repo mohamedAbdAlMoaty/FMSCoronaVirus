@@ -28,7 +28,7 @@ dependencies:
 
 android versions targeted:
 
-- (API level 16) or higher
+- (API level 29)
 
 
 ### Libraries
