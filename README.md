@@ -1,5 +1,7 @@
 # FMSCoronaVirus
 
+2 in 1  patients and Ambulance Providers can use the same App with different interfaces
+
 
 ### Technologies & Methodologies which used:
 
